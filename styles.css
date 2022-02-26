@@ -1,0 +1,79 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(136,94,16,1.00) 20.21%,rgba(143,130,130,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(136,94,16,1.00) 20.21%,rgba(143,130,130,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(136,94,16,1.00) 20.21%,rgba(143,130,130,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(136,94,16,1.00) 20.21%,rgba(143,130,130,1.00) 100%);
+}
+.container-fluid .container {
+    background-image: -webkit-linear-gradient(270deg,rgba(236,224,227,1.00) 2.59%,rgba(9,8,8,1.00) 100%,rgba(233,215,215,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(236,224,227,1.00) 2.59%,rgba(9,8,8,1.00) 100%,rgba(233,215,215,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(236,224,227,1.00) 2.59%,rgba(9,8,8,1.00) 100%,rgba(233,215,215,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(236,224,227,1.00) 2.59%,rgba(9,8,8,1.00) 100%,rgba(233,215,215,1.00) 100%);
+    color: #907C51;
+    background-color: #090808;
+}
+footer .row .col-xl-6 {
+    color: #CD9418;
+    font-weight: bold;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #070404;
+}
+.card #headingTwo1 .mb-0 {
+    color: #231B1B;
+}
+
+
+
+.navbar-nav.mr-auto .nav-item .nav-link {
+    margin-left: 46px;
+    margin-right: 0px;
+}
+
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #493334;
+    font-weight: bold;
+}
+.container-fluid .container .text-center {
+    color: #493334;
+}
+.card.col-md-4.col-xl-12 .card-body .card-title {
+    color: #493334;
+}
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+    background-color: #493334;
+}
+#headingOne1 .mb-0 a {
+    color: #493334;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #493334;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #493334;
+}
+footer .row .col-xl-2 {
+    color: #493334;
+}
+footer .row .col-xl-6 {
+    color: #493334;
+}
+
+
+
+
+
+
+
+
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #493334;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #493334;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #493334;
+    font-weight: bold;
+}
